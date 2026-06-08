@@ -6,7 +6,7 @@ typedef struct {
     int quantidade;
     float totalEstoque;
 } Produto;
-
+ 
 
 void lerProdutos(Produto est[], int n) {
     for (int i = 0; i < n; i++) {
