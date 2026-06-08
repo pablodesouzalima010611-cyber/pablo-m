@@ -6,6 +6,7 @@ typedef struct {
     float altura;
 } Pessoa;
 
+
 int main() {
     Pessoa p;
 
